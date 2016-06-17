@@ -1,5 +1,5 @@
 # Workspace Frontend
-My workspace of frontend - Setting Gulp with Jade, Sass, Uglify, Imagemin and Watch
+My workspace of frontend - Setting Gulp with Jade, Sass, Uglify, Imagemin, Watch and Lite Server
 ### Structure
 - scr
   - files .jade
