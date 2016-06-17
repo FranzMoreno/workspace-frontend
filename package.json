@@ -1,0 +1,20 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "scripts": {
+    "start": " gulp & npm run lite ",
+    "gulp": "gulp",
+    "lite": "lite-server"
+  },
+  "author": "excellinked",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.3.1",
+    "gulp-uglify": "^1.5.3",
+    "gulp-watch": "^4.3.5",
+    "lite-server": "^2.2.0"
+  }
+}

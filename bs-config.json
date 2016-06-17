@@ -1,0 +1,11 @@
+{
+  "port": 8000,
+  "files": ["./dist/**/*.{html,css,js}"],
+  "watchOptions": { "ignored": "node_modules" },
+  "server": {
+  	"baseDir": "./dist",
+  	"routes": {
+        "/node_modules": "node_modules"
+    }
+  }
+}
